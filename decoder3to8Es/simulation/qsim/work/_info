@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Hino\Unicauca\6to\Digitales2\decoder3to8Es\simulation\qsim
+vdecoder3to8Es
+Z1 !s100 E@ON4HEab3lL6`N40Cl6E0
+Z2 Ie=n=BCn;e`P6oNI>kG3ec1
+Z3 VTJ<n_ZAhSFI;2Thm`akTG0
+Z4 dD:\Hino\Unicauca\6to\Digitales2\decoder3to8Es\simulation\qsim
+Z5 w1613876897
+Z6 8decoder3to8Es.vo
+Z7 Fdecoder3to8Es.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|decoder3to8Es.vo|
+Z10 o-work work -O0
+Z11 ndecoder3to8@es
+!i10b 1
+!s85 0
+Z12 !s108 1613876898.438000
+Z13 !s107 decoder3to8Es.vo|
+!s101 -O0
+vdecoder3to8Es_vlg_check_tst
+Z14 I@S^4kk9>B[9W;?b;B04:;3
+Z15 VZZhL:FfIQMcCR3D=`Ig3f0
+R4
+Z16 w1613876760
+Z17 8decoder3to8Es.vwf.vt
+Z18 Fdecoder3to8Es.vwf.vt
+L0 57
+R8
+r1
+31
+Z19 !s108 1613876763.127000
+Z20 !s107 decoder3to8Es.vwf.vt|
+Z21 !s90 -work|work|decoder3to8Es.vwf.vt|
+R10
+Z22 ndecoder3to8@es_vlg_check_tst
+Z23 !s100 ezzSn:=edXMFP0KT:B96O0
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder3to8Es_vlg_sample_tst
+Z24 IKfgA9YimIRUI29zJjkFP_1
+Z25 V]D3^K?6bB[H@8gaX9?I6R0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+31
+R19
+R20
+R21
+R10
+Z26 ndecoder3to8@es_vlg_sample_tst
+Z27 !s100 `OnaISR4S^ze?`U54E_Ha1
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder3to8Es_vlg_vec_tst
+!i10b 1
+!s100 lioaRQdz6I5j5@Vf<zm;i0
+I?9]^@H40DS=RD7fnHoc7?3
+Z28 VE3[LDZIaPXlhfH9BUi;3C2
+R4
+w1613876896
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R8
+r1
+!s85 0
+31
+!s108 1613876898.679000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z29 ndecoder3to8@es_vlg_vec_tst

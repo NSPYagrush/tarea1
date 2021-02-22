@@ -1,0 +1,19 @@
+|encoder8to3
+F[0] => ~NO_FANOUT~
+F[1] => C.IN0
+F[2] => B.IN0
+F[3] => B.IN1
+F[3] => C.IN1
+F[4] => A.IN0
+F[5] => A.IN1
+F[5] => C.IN1
+F[6] => A.IN1
+F[6] => B.IN1
+F[7] => A.IN1
+F[7] => B.IN1
+F[7] => C.IN1
+A << A.DB_MAX_OUTPUT_PORT_TYPE
+B << B.DB_MAX_OUTPUT_PORT_TYPE
+C << C.DB_MAX_OUTPUT_PORT_TYPE
+
+

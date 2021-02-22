@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Edemux1to4
+Z0 w1613951048
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dD:\Hino\Unicauca\6to\Digitales2\trabajos\demux1to4
+Z4 8D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd
+Z5 FD:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd
+l0
+L4
+VAJJ31?7?5>nfcETfMMoh@3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1613953571.553000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd|
+Z9 !s107 D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 <:JGOij[7aGY8l76OG=[A2
+!i10b 1
+Ademux1to4_dataflow
+R1
+R2
+DEx4 work 9 demux1to4 0 22 AJJ31?7?5>nfcETfMMoh@3
+l11
+L10
+V1iE]GVi2Phj?XdkAAoD>f0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 L=;S19IknbBU9mC^fmWei3
+!i10b 1
+Etestbench
+w1613953625
+Z12 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R1
+R2
+R3
+8D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd
+FD:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd
+l0
+L5
+VFEX_=jSdQe[OJ31P=knfK2
+!s100 l3OC4f=:7dCl`O_VIB6F83
+R6
+32
+!i10b 1
+!s108 1613953629.462000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd|
+!s107 D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd|
+R10
+R11

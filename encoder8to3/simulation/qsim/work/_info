@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Hino\Unicauca\6to\Digitales2\trabajos\encoder8to3\simulation\qsim
+vencoder8to3
+Z1 !s100 5W@]jlK]g:mC3I@99BmA72
+Z2 IDAB=P9EEiAdQW5JYefcJ>3
+Z3 Vb6<GiiIKI^iJelJ>WTcG;1
+Z4 dD:\Hino\Unicauca\6to\Digitales2\trabajos\tarea1\encoder8to3\simulation\qsim
+Z5 w1613955866
+Z6 8encoder8to3.vo
+Z7 Fencoder8to3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|encoder8to3.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1613955867.828000
+Z12 !s107 encoder8to3.vo|
+!s101 -O0
+vencoder8to3_vlg_check_tst
+!i10b 1
+!s100 ]h<3?;Wga85Uc6mGUemgQ0
+IH?agLKb<`IFL@<fYgnhc40
+Z13 VNEP]jOYDl::[Ilh8Z[?6;1
+R4
+Z14 w1613955863
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z17 !s108 1613955868.148000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vencoder8to3_vlg_sample_tst
+!i10b 1
+Z20 !s100 ?AOU^^3Vn7TK@8UE3<2kW2
+Z21 IN9W2mU^:FkI8a7BXTN?Sj0
+Z22 V^KnlikIfVQIfRXc6@Ga_l0
+R4
+R14
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+vencoder8to3_vlg_vec_tst
+!i10b 1
+!s100 iLC86YihZ;j>1go;`FNh]3
+IMX;P66lhBi:faNZ4@553W3
+Z23 VR`7I8PQTB2fGdHRV;bHiF0
+R4
+R14
+R15
+R16
+L0 209
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10

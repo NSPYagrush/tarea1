@@ -1,0 +1,74 @@
+D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd {0 {vcom -work work -2002 -explicit D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity testbench
+-- Compiling architecture prueba of testbench
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(17): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(17): (vcom-1136) Unknown identifier "A".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(17): Enumeration literal '0' is not of type (error).
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(17): Enumeration literal '0' is not of type (error).
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(18): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(18): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(19): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(19): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): (vcom-1136) Unknown identifier "A".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): Bad expression in right operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): Bad expression in left operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): Bad expression in right operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(21): (vcom-1136) Unknown identifier "W".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): (vcom-1136) Unknown identifier "A".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): Bad expression in right operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): Bad expression in left operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(22): (vcom-1136) Unknown identifier "X".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): (vcom-1136) Unknown identifier "A".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): Bad expression in left operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): Bad expression in right operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(23): (vcom-1136) Unknown identifier "Y".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): Illegal target for signal assignment.
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): (vcom-1136) Unknown identifier "A".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): Bad expression in left operand of infix expression "and".
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): (vcom-1136) Unknown identifier "Sel".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(24): (vcom-1136) Unknown identifier "Z".
+
+** Error: D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/testbench.vhd(25): VHDL Compiler exiting
+
+} {9.0 11.0 12.0 16.0 17.0 19.0 20.0 22.0 23.0 24.0 25.0 27.0 28.0 31.0 32.0 34.0 35.0 36.0 37.0 40.0 41.0 42.0 43.0 45.0 46.0 47.0 48.0 49.0 50.0 53.0 54.0 56.0 57.0 58.0 59.0 61.0 62.0 63.0 64.0 65.0} {}} D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd {1 {vcom -work work -2002 -explicit D:/Hino/Unicauca/6to/Digitales2/trabajos/demux1to4/demux1to4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity demux1to4
+-- Compiling architecture demux1to4_dataflow of demux1to4
+
+} {} {}}

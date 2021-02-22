@@ -1,0 +1,15 @@
+|demux1to4
+A => W.IN0
+A => Y.IN0
+Sel[0] => X.IN1
+Sel[0] => Z.IN1
+Sel[0] => W.IN1
+Sel[0] => Y.IN1
+Sel[1] => Y.IN1
+Sel[1] => W.IN1
+W << W.DB_MAX_OUTPUT_PORT_TYPE
+X << X.DB_MAX_OUTPUT_PORT_TYPE
+Y << Y.DB_MAX_OUTPUT_PORT_TYPE
+Z << Z.DB_MAX_OUTPUT_PORT_TYPE
+
+
